@@ -1,6 +1,8 @@
 This is a project to maintain a survey of existing and proposed laws and regulations on cryptography - systems used for protecting information against unauthorized access. Governments have long restricted export of cryptography on national security grounds, and with the wider availability of cryptographic tools concerns have also been raised about criminals using cryptography to thwart law enforcement. For these reasons, many countries have passed laws or are considering laws to maintain law-enforcement and national-security capabilities through regulation of cryptography.
 
-This project was initiated by individual participants of the [OpenChain Export Control Work Group](https://lists.openchainproject.org/g/export-control-wg) in an effort to take the great work from Bert-Jaap Koops' [Crypto Law Survey](http://www.cryptolaw.org/) and provide a way for the resource to easily accept new contributions from around the world. This is not an official resource of the OpenChain Project, but rather one that is being discussed and organized by individuals via an OpenChain mailing list.
+This project was initiated by individual participants of the [OpenChain Export Control Work Group](https://lists.openchainproject.org/g/export-control-wg) in an effort to take the great work from Bert-Jaap Koops' [Crypto Law Survey](http://www.cryptolaw.org/) and provide a way for the resource to easily accept new contributions from around the world.
+
+This is not an official resource of the OpenChain Project, but rather one that is being discussed and organized by individuals via an OpenChain mailing list.
 
 ## Participate
 
