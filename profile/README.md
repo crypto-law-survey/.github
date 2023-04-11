@@ -16,4 +16,4 @@ This survey of cryptography laws is based on information gathered from the Inter
 
 This text comes originally from Bert-Jaap Koops' [Crypto Law Survey](http://www.cryptolaw.org/) site.
 
-The new project logo was donated to us by [Simon Vaseux](https://www.linkedin.com/in/simon-vaseux-38951578/) [email](mailto:simon.vaseux@gmail.com).
+The new project logo was donated to us by [Simon Vaseux](https://www.linkedin.com/in/simon-vaseux-38951578/) ([email](mailto:simon.vaseux@gmail.com)).
